@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jun 21 21:13:21 2018
-
-@author: amin
+@author: ac
 """
 #Imports
 import sys
